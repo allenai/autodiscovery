@@ -1,7 +1,7 @@
 ![autods_logo.png](artifacts/autods_logo.png)
-# Autonomous Discovery via Surprisal
+# Open-ended Scientific Discovery via Bayesian Surprise
 
-> Paper: [Open-Ended Scientific Discovery via Bayesian Surprise](https://arxiv.org/abs/2507.00310)
+> Link to our NeurIPS 2025 paper: [AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise](https://openreview.net/pdf?id=kJqTkj2HhF)
 
 ## Installation
 
@@ -71,10 +71,12 @@ Please reach out to us on email or open a GitHub issue in case of any issues run
 ## 📄 Citation
 If you find our work useful, please cite our paper:
 ```
-@article{agarwal2025open,
-  title={Open-ended Scientific Discovery via Bayesian Surprise},
-  author={Agarwal, Dhruv and Majumder, Bodhisattwa Prasad and Adamson, Reece and Chakravorty, Megha and Gavireddy, Satvika Reddy and Parashar, Aditya and Surana, Harshit and Mishra, Bhavana Dalvi and McCallum, Andrew and Sabharwal, Ashish and Clark, Peter},
-  journal={arXiv preprint arXiv:2507.00310},
-  year={2025}
+@inproceedings{
+agarwal2025autodiscovery,
+title={AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise},
+author={Dhruv Agarwal and Bodhisattwa Prasad Majumder and Reece Adamson and Megha Chakravorty and Satvika Reddy Gavireddy and Aditya Parashar and Harshit Surana and Bhavana Dalvi Mishra and Andrew McCallum and Ashish Sabharwal and Peter Clark},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=kJqTkj2HhF}
 }
 ```
