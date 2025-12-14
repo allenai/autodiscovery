@@ -1,5 +1,5 @@
-![autods_logo.png](artifacts/autods_logo.png)
-# AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise
+![autodiscovery_logo.png](artifacts/autodiscovery_logo.png)
+# Open-ended Scientific Discovery via Bayesian Surprise
 
 > Link to our NeurIPS 2025 paper: [AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise](https://openreview.net/pdf?id=kJqTkj2HhF)
 
